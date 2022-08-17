@@ -8,7 +8,7 @@ body {
   font-family: "Noto Sans", sans-serif;
 }
 header {
-  background-color: rgba(0, 0, 255, 0.678);
+  background-color: #0284c7;
   color: white;
   text-align: center;
   padding: 1rem;
@@ -25,6 +25,7 @@ textarea {
   margin-right: auto;
   display: block;
   font-size: 20px;
+  border: 3px solid black;
 }
 .txtOutput {
   border: 3px solid black;
@@ -32,8 +33,7 @@ textarea {
   height: 10vh;
   padding: 1rem;
   color: white;
-  font-size: 20px;
-  background-color: rgba(0, 0, 255, 0.678);
+  background-color: #0284c7;
 }
 .outputAll {
   margin-top: 4rem;
@@ -50,14 +50,13 @@ textarea {
   display: block;
   margin-right: auto;
   margin-left: 8rem;
-  background-color: rgba(0, 0, 255, 0.678);
+  background-color: #0284c7;
   border-radius: 1rem;
   color: white;
-  /* font-weight: bold; */
 }
 
 footer {
-  background-color: rgba(0, 0, 255, 0.678);
+  background-color: #0284c7;
   position: fixed;
   bottom: 0;
   text-align: center;
