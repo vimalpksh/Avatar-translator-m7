@@ -23,7 +23,7 @@ textarea {
   padding: 1rem;
   margin-top: 4rem;
   margin-bottom: 4rem;
-  margin-left: 8rem;
+  margin-left: 5rem;
   margin-right: auto;
   display: block;
   font-size: 20px;
@@ -40,7 +40,7 @@ textarea {
 .outputAll {
   margin-top: 4rem;
   margin-bottom: 4rem;
-  margin-left: 8rem;
+  margin-left: 5rem;
   margin-right: auto;
 }
 
@@ -51,7 +51,7 @@ textarea {
   margin: 4rem;
   display: block;
   margin-right: auto;
-  margin-left: 8rem;
+  margin-left: 5rem;
   background-color: #0284c7;
   border-radius: 1rem;
   color: white;
