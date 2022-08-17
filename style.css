@@ -7,19 +7,60 @@
 body {
   font-family: "Noto Sans", sans-serif;
 }
+header {
+  background-color: rgba(0, 0, 255, 0.678);
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
 
 textarea {
   font-family: "Noto Sans", sans-serif;
   width: 80%;
   height: 10vh;
   padding: 1rem;
-  margin: 1rem;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  margin-left: 8rem;
+  margin-right: auto;
   display: block;
+  font-size: 20px;
 }
 .txtOutput {
-  border: 1px solid black;
+  border: 3px solid black;
   width: 80%;
   height: 10vh;
-  margin: 1rem;
   padding: 1rem;
+  color: white;
+  font-size: 20px;
+  background-color: rgba(0, 0, 255, 0.678);
+}
+.outputAll {
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+  margin-left: 8rem;
+  margin-right: auto;
+}
+
+#btn-Translate {
+  font-family: "Noto Sans", sans-serif;
+  padding: 1rem;
+  font-size: 25px;
+  margin: 4rem;
+  display: block;
+  margin-right: auto;
+  margin-left: 8rem;
+  background-color: rgba(0, 0, 255, 0.678);
+  border-radius: 1rem;
+  color: white;
+  /* font-weight: bold; */
+}
+
+footer {
+  background-color: rgba(0, 0, 255, 0.678);
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+  padding: 2rem;
+  color: white;
 }
