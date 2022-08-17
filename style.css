@@ -66,3 +66,9 @@ footer {
   padding: 2rem;
   color: white;
 }
+h2 {
+  margin: 1rem auto;
+}
+footer p {
+  margin: 1rem auto;
+}
