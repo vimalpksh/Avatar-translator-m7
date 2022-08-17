@@ -13,7 +13,8 @@ header {
   text-align: center;
   padding: 1rem;
   width: 100%;
-  display: inline-block;
+  display: fixed;
+  top: 0;
 }
 
 textarea {
